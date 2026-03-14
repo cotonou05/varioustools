@@ -11,6 +11,10 @@
 
 ### this was made **by hand**, as my **first** python project
 
-clone with 
+-clone with 
    
 `https://github.com/cotonou05/varioustools.git`
+
+-you need rich library
+`pip install rich`
+
