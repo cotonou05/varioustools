@@ -6,7 +6,6 @@ console = Console()
 while True:
     print("""------IP TOOL------""")
     print("Loading.", end="", flush=True)
-    dots()
     print("\r              ")
     ip = input("- ip adress? (skip if no ip) :").strip()
     print("""- what do you want to do ? :
