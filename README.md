@@ -9,7 +9,8 @@
     6) MESSAGE ENCRYPTER
     7) MESSAGE DECRYPTER
 
-   this was made by hand, as my first python project
-   clone with 
+### this was made **by hand**, as my **first** python project
+
+clone with 
    
-   https://github.com/cotonou05/varioustools.git
+`https://github.com/cotonou05/varioustools.git`
