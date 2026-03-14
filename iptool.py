@@ -3,25 +3,6 @@ import time
 from rich.console import *
 console = Console()
 
-
-
-def animation():
-    print(".", end="", flush=True)
-    time.sleep(0.5)
-    print("..", end="", flush=True)
-    time.sleep(0.5)
-    print(".", end="", flush=True)
-    time.sleep(0.5)
-    print("....", end="", flush=True)
-    time.sleep(0.5)
-    print(".. : ", end="", flush=True)
-    time.sleep(0.5)
-    
-def dots():
-    for _ in range(5):
-        time.sleep(0.3)
-        print(".", end="", flush=True)
-
 while True:
     print("""------IP TOOL------""")
     print("Loading.", end="", flush=True)
