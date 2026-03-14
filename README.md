@@ -11,11 +11,11 @@
 
  this was made **by hand**, as my **first** python project
 
-### -clone with :
+### - Clone with :
    
 `https://github.com/cotonou05/varioustools.git`
 
- ### -requirements :
+ ### - Requirements :
 
 `pip install rich` for windows 
 
