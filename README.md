@@ -15,7 +15,7 @@
    
 `https://github.com/cotonou05/varioustools.git`
 
- ### -you need rich library :
+ ### -requirements :
 
 `pip install rich` for windows 
 
