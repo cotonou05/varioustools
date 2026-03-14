@@ -9,4 +9,4 @@
     6) MESSAGE ENCRYPTER
     7) MESSAGE DECRYPTER
 
-  # made by hand, this is my first python project
+   this was made by hand, as my first python project
