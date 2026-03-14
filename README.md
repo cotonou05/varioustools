@@ -19,7 +19,7 @@
 
 `pip install rich` for windows 
 
-### or
+ or
 
 `pip install rich  --break-system-packages` for linux
 
