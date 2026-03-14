@@ -18,8 +18,6 @@
  ### - Requirements :
 
 `pip install rich` for windows 
-
  or
-
 `pip install rich  --break-system-packages` for linux
 
