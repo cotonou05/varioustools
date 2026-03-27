@@ -1,6 +1,6 @@
-# varioustools
+# IP TOOL
 
-## made a random menu with 7 different tools :
+## i made a menu with 7 different tools :
     1) PING
     2) TRACEROUTE
     3) IPCONFIG
