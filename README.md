@@ -6,8 +6,6 @@
     3) IPCONFIG
     4) PUBLIC IPV4
     5) IP COUNTRY LOCATER
-    6) MESSAGE ENCRYPTER
-    7) MESSAGE DECRYPTER
 
  this was made **by hand**, as my **first** python project
 
